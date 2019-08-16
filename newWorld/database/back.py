@@ -26,7 +26,7 @@ import re
 import xlrd
 from requests import PreparedRequest
 
-from backup.database import Database
+from database.databaseDemo import Database
 from interface.client import Analysis, ResponseTable, Client
 
 logging.basicConfig(level=logging.INFO,

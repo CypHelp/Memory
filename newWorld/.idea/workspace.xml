@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0c3e251-ca21-4e0d-986b-c044b75bca79" name="Default Changelist" comment="" />
+    <list default="true" id="b0c3e251-ca21-4e0d-986b-c044b75bca79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/TestNewWorldDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/c_structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_structure/demo/de.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/newWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/back.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/back.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/databaseDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbshop/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/dbshop/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DoutuDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestToolLibraryDemo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structer/dockerfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/framework.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +76,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/back.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1583">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/final.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-281">
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TencentPublicClass/wymusicPythonDemo.py">
+        <entry file="file://$PROJECT_DIR$/structer/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-              <folding>
-                <element signature="e#118#133#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-182">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
+        <entry file="file://$PROJECT_DIR$/database/databaseDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TencentPublicClass/baiduMusicPythonDemo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="32" column="94" selection-start-line="32" selection-start-column="94" selection-end-line="32" selection-end-column="94" />
-              <folding>
-                <element signature="e#131#142#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="196">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -107,6 +154,9 @@
       <find>get_ne</find>
       <find>get_c</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,17 +215,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="367" />
-    <option name="y" value="228" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="318" />
+    <option name="y" value="86" />
     <option name="width" value="1330" />
     <option name="height" value="975" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,18 +238,7 @@
             <path>
               <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="newWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="seleniumDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="seleniumDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="musicTestDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="TencentPublicClass" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestToolLibraryDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
@@ -207,33 +248,33 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../no.625" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.24321705" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\TestNewWorldDemo\newWorld\TencentPublicClass" />
+      <recent name="E:\Project\TestNewWorldDemo\newWorld\database" />
+      <recent name="E:\pythonProject\newWorld\AutoTestPlatform\web" />
+      <recent name="E:\pythonProject\newWorld" />
+      <recent name="E:\pythonProject\newWorld\seleniumDemo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Project\pythonProject\newWorld\database\connect" />
       <recent name="E:\Project\pythonProject\newWorld\AutoTestPlatform\app" />
       <recent name="E:\pythonProject\newWorld\AutoTestPlatform\common" />
       <recent name="E:\pythonProject\newWorld\AutoTestPlatform\app" />
       <recent name="E:\pythonProject\newWorld\AutoTestPlatform\tools" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\pythonProject\newWorld\AutoTestPlatform\web" />
-      <recent name="E:\pythonProject\newWorld" />
-      <recent name="E:\pythonProject\newWorld\seleniumDemo" />
-      <recent name="E:\pythonProject\newWorld\zixun\example" />
-      <recent name="E:\pythonProject\newWorld\database" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,6 +448,10 @@
       <workItem from="1565782513687" duration="129000" />
       <workItem from="1565782692794" duration="8365000" />
       <workItem from="1565831131971" duration="377000" />
+      <workItem from="1565840028697" duration="2415000" />
+      <workItem from="1565857382953" duration="595000" />
+      <workItem from="1565870475123" duration="664000" />
+      <workItem from="1565918032161" duration="389000" />
     </task>
     <servers />
   </component>
@@ -443,7 +488,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300077000" />
+    <option name="totallyTimeSpent" value="304140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,9 +501,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.16085792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.18699732" />
       <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.21702838" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -568,56 +612,13 @@
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_music_MusicTest_test_music_play.coverage" NAME="Unittests for music.MusicTest.test_music_play Coverage Results" MODIFIED="1565831208498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/musicTestDemo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/common/exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/http/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1410">
-          <caret line="1320" selection-start-line="1320" selection-end-line="1320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/appiums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#605#627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/newWorld/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/key_event.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/201704070942573737854.jpg" />
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/58f5c252e290e.png" />
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/0142625a576559a80120121f16b919.jpeg" />
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/1c941201dc70e95c248465eaf87aae531aaa0ab487398-K1YKf2_fw658.jpg" />
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/true.jpg" />
     <entry file="file://$PROJECT_DIR$/AutoTestPlatform/web/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/backup/back.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/demo1.py" />
     <entry file="file://$PROJECT_DIR$/test/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -633,16 +634,6 @@
         <state>
           <folding>
             <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/framework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="e#107#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -825,6 +816,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicClass/wymusicPythonDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/baiduMusicPythonDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -835,20 +840,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
+    <entry file="file://$PROJECT_DIR$/TencentPublicClass/FaceRecognitionDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="182">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/wymusicPythonDemo.py">
+    <entry file="file://$PROJECT_DIR$/database/databaseDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        <state relative-caret-position="196">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/back.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1583">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
           <folding>
-            <element signature="e#118#133#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structer/dockerfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/framework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <element signature="e#107#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structer/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
