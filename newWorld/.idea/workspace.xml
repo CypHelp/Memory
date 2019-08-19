@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c3e251-ca21-4e0d-986b-c044b75bca79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/TestNewWorldDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/c_structure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c_structure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c_structure/demo/de.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/newWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestToolLibraryDemo/fakerDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestToolLibraryDemo/logDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TencentPublicClass/bilibiliTalkDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TencentPublicClass/movieDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mocoInterfaceTestDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mocoInterfaceTestDemo/api/book/book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mocoInterfaceTestDemo/api/person/person.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mocoInterfaceTestDemo/demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mocoInterfaceTestDemo/global.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/back.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/back.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/databaseDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbshop/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/dbshop/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DoutuDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestToolLibraryDemo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structer/dockerfile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/framework.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,59 +66,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/back.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1583">
-              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py">
+        <entry file="file://$PROJECT_DIR$/AutoTestToolLibraryDemo/logDemo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/client.py">
+        <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/appiums.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
+            <state relative-caret-position="308">
+              <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/adb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4634">
+              <caret line="337" column="42" selection-start-line="337" selection-start-column="42" selection-end-line="337" selection-end-column="42" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/final.py">
+        <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/key_event.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-281">
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/structer/list.py">
+        <entry file="file://$PROJECT_DIR$/TencentPublicClass/movieDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/databaseDemo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="234">
+              <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="105" />
+              <folding>
+                <element signature="e#107#120#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,10 +122,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
-        <option value="package.json" />
-        <option value="HTML File" />
         <option value="Gherkin feature file" />
         <option value="pythonTemplateSeleniumDemo" />
+        <option value="HTML File" />
+        <option value="package.json" />
         <option value="Python Script" />
       </list>
     </option>
@@ -161,25 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zixun/example/test.py" />
-        <option value="$PROJECT_DIR$/interface/xrldDemo.py" />
-        <option value="$PROJECT_DIR$/interface/final.py" />
-        <option value="$PROJECT_DIR$/dbshop/run.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/demo.py" />
-        <option value="$PROJECT_DIR$/threadDemo/demo.py" />
-        <option value="$PROJECT_DIR$/musicTestDemo/music.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/templateSeleniumDemo.py" />
-        <option value="$PROJECT_DIR$/featuresDemo/start.feature" />
-        <option value="$PROJECT_DIR$/featuresDemo/steps/test.py" />
-        <option value="$PROJECT_DIR$/features/steps/test.py" />
-        <option value="$PROJECT_DIR$/features/start.feature" />
-        <option value="$PROJECT_DIR$/seleniumDemo/dbshopTestGoodsManageDemo/GoodsManageDemo.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/dbshopTestDemo/GoodsManage.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/bilibiliDemo/bilibiliLogin.py" />
-        <option value="$PROJECT_DIR$/AutoTestPlatform/tools/file.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/qqmailTestDemo/mailDemo.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/dbshopTestDemo/GoodsManageDemo.py" />
-        <option value="$PROJECT_DIR$/seleniumDemo/musicTestDemo/runMusic.py" />
         <option value="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo/reprt.html" />
         <option value="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo/D2AdminTest.py" />
         <option value="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo/run.py" />
@@ -212,14 +175,33 @@
         <option value="$PROJECT_DIR$/database/connect/sqlalchemyDemo.py" />
         <option value="$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py" />
         <option value="$PROJECT_DIR$/TencentPublicClass/wymusicPythonDemo.py" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/successLogin.html" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/login.html" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/package.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/login.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/login_name.html" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/global.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/book/package.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/book/book.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/person/package.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/person/person.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/api/login/login_name.html" />
+        <option value="$PROJECT_DIR$/AutoTestToolLibraryDemo/fakerDemo.py" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/package.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/demo.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/login.json" />
+        <option value="$PROJECT_DIR$/mocoInterfaceTestDemo/foo.json" />
+        <option value="$PROJECT_DIR$/TencentPublicClass/bilibiliTalkDemo.py" />
+        <option value="$PROJECT_DIR$/AutoTestToolLibraryDemo/logDemo.py" />
+        <option value="$PROJECT_DIR$/TencentPublicClass/movieDemo.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="318" />
-    <option name="y" value="86" />
-    <option name="width" value="1330" />
-    <option name="height" value="975" />
+    <option name="x" value="163" />
+    <option name="y" value="130" />
+    <option name="width" value="1595" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -227,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,7 +219,35 @@
             <path>
               <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
               <item name="AutoTestToolLibraryDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="TencentPublicClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
@@ -248,6 +257,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,19 +265,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pythonProject/no.625" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.24321705" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\TestNewWorldDemo\newWorld\mocoInterfaceTestDemo" />
+      <recent name="E:\Project\TestNewWorldDemo\newWorld\mocoInterfaceTestDemo\api" />
+      <recent name="E:\Project\TestNewWorldDemo\newWorld\mocoInterfaceTestDemo\api\login" />
+      <recent name="E:\Project\TestNewWorldDemo\newWorld\mocoInterfaceTestDemo\api\login_name" />
       <recent name="E:\Project\TestNewWorldDemo\newWorld\TencentPublicClass" />
-      <recent name="E:\Project\TestNewWorldDemo\newWorld\database" />
-      <recent name="E:\pythonProject\newWorld\AutoTestPlatform\web" />
-      <recent name="E:\pythonProject\newWorld" />
-      <recent name="E:\pythonProject\newWorld\seleniumDemo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Project\pythonProject\newWorld\database\connect" />
@@ -289,8 +300,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for music.MusicTest.test_music_play">
-    <configuration name="baiduPythonDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.movieDemo">
+    <configuration name="bilibiliTalkDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="newWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,7 +314,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TencentPublicClass/baiduPythonDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TencentPublicClass/bilibiliTalkDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sqlalchemyDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fakerDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="newWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,12 +331,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database/connect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoTestToolLibraryDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/connect/sqlalchemyDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoTestToolLibraryDemo/fakerDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +345,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wymusicPythonDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoTestToolLibraryDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoTestToolLibraryDemo/logDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movieDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="newWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,28 +380,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TencentPublicClass/wymusicPythonDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TencentPublicClass/movieDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for music.MusicTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="newWorld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seleniumDemo/musicTestDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;music.MusicTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests for music.MusicTest.test_music_play" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -388,11 +406,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.movieDemo" />
+        <item itemvalue="Python.logDemo" />
+        <item itemvalue="Python.bilibiliTalkDemo" />
+        <item itemvalue="Python.fakerDemo" />
         <item itemvalue="Python tests.Unittests for music.MusicTest.test_music_play" />
-        <item itemvalue="Python.wymusicPythonDemo" />
-        <item itemvalue="Python tests.Unittests for music.MusicTest" />
-        <item itemvalue="Python.sqlalchemyDemo" />
-        <item itemvalue="Python.baiduPythonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -451,14 +469,22 @@
       <workItem from="1565840028697" duration="2415000" />
       <workItem from="1565857382953" duration="595000" />
       <workItem from="1565870475123" duration="664000" />
-      <workItem from="1565918032161" duration="389000" />
+      <workItem from="1565918032161" duration="12011000" />
+      <workItem from="1565958219261" duration="4254000" />
+      <workItem from="1566180095319" duration="3465000" />
+      <workItem from="1566217401534" duration="4619000" />
     </task>
+    <task id="LOCAL-00001" summary="ha">
+      <created>1565918488860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565918488860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_music_py - 2019.08.09 at 09h 59m 05s.xml">
-      <configuration name="Unittests in music.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_music_MusicTest - 2019.08.09 at 15h 18m 48s.xml">
       <configuration name="Unittests for music.MusicTest" configurationId="tests" />
     </history-entry>
@@ -486,9 +512,12 @@
     <history-entry file="Unittests_for_music_MusicTest_test_music_play - 2019.08.15 at 09h 07m 36s.xml">
       <configuration name="Unittests for music.MusicTest.test_music_play" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_music_MusicTest_test_music_play - 2019.08.16 at 10h 34m 34s.xml">
+      <configuration name="Unittests for music.MusicTest.test_music_play" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304140000" />
+    <option name="totallyTimeSpent" value="328100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -501,28 +530,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.18699732" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" weight="0.1954023" />
       <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.21702838" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.25183016" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49917763" visible="true" weight="0.40556368" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917763" weight="0.5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3968" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32796487" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32650074" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50082237" side_tool="true" weight="0.42213884" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49931788" weight="0.41025642" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5657051" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289225" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3251418" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500994" side_tool="true" weight="0.5657051" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49931788" visible="true" weight="0.44428152" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49900597" weight="0.563327" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.3308715" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32841823" />
       <window_info anchor="right" id="Database" order="4" weight="0.49061662" />
     </layout>
     <layout-to-restore>
@@ -553,16 +583,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ha" />
+    <option name="LAST_COMMIT_MESSAGE" value="ha" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/newWorld$Unittests_in_D2AdminTest_py.coverage" NAME="Unittests in D2AdminTest.py Coverage Results" MODIFIED="1564985491860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_D2AdminTest_Test.coverage" NAME="Unittests for D2AdminTest.Test Coverage Results" MODIFIED="1564985282998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_D2AdminLogin_test_Test_test_user_manage.coverage" NAME="Unittests for D2AdminLogin_test.Test.test_user_manage Coverage Results" MODIFIED="1565084023604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_in_D2AdminLogin_test_py.coverage" NAME="Unittests in D2AdminLogin_test.py Coverage Results" MODIFIED="1565100221316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$server.coverage" NAME="server Coverage Results" MODIFIED="1564124782134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketDemo" />
+    <SUITE FILE_PATH="coverage/newWorld$logDemo.coverage" NAME="logDemo Coverage Results" MODIFIED="1566181653063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoTestToolLibraryDemo" />
     <SUITE FILE_PATH="coverage/newWorld$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1565697943357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TencentPublicClass" />
     <SUITE FILE_PATH="coverage/newWorld$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1562748614510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/newWorld$start_feature_PineApplePenApplePen.coverage" NAME="start.feature:PineApplePenApplePen Coverage Results" MODIFIED="1564624509775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/newWorld$PerformanceDemo.coverage" NAME="PerformanceDemo Coverage Results" MODIFIED="1565604000384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MobilePhoneTesting" />
+    <SUITE FILE_PATH="coverage/newWorld$fakerDemo.coverage" NAME="fakerDemo Coverage Results" MODIFIED="1565925802838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoTestToolLibraryDemo" />
     <SUITE FILE_PATH="coverage/newWorld$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1564624547982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
     <SUITE FILE_PATH="coverage/newWorld$baiduMusicPythonDemo.coverage" NAME="baiduMusicPythonDemo Coverage Results" MODIFIED="1565746030073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TencentPublicClass" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_mailDemo_MailTest_test_mail_send.coverage" NAME="Unittests for mailDemo.MailTest.test_mail_send Coverage Results" MODIFIED="1564653245400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/qqmailTestDemo" />
@@ -579,6 +615,7 @@
     <SUITE FILE_PATH="coverage/newWorld$final.coverage" NAME="final Coverage Results" MODIFIED="1564451069904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zixun/example" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_in_aqy_py.coverage" NAME="Unittests in aqy.py Coverage Results" MODIFIED="1565257079700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/aqyDemo" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_D2AdminLogin_test_Test.coverage" NAME="Unittests for D2AdminLogin_test.Test Coverage Results" MODIFIED="1565140991178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
+    <SUITE FILE_PATH="coverage/newWorld$movieDemo.coverage" NAME="movieDemo Coverage Results" MODIFIED="1566221862853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TencentPublicClass" />
     <SUITE FILE_PATH="coverage/newWorld$xrldDemo.coverage" NAME="xrldDemo Coverage Results" MODIFIED="1564453542768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/newWorld$FaceRecognitionDemo.coverage" NAME="FaceRecognitionDemo Coverage Results" MODIFIED="1565184363808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TencentPublicClass" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_framework_BrowserTest_test_mult.coverage" NAME="Unittests for framework.BrowserTest.test_mult Coverage Results" MODIFIED="1563431955453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -588,6 +625,7 @@
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_D2AdminLogin_test_Test_test_department_manage.coverage" NAME="Unittests for D2AdminLogin_test.Test.test_department_manage Coverage Results" MODIFIED="1565096647131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$join_thread.coverage" NAME="join_thread Coverage Results" MODIFIED="1564132248415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadDemo" />
     <SUITE FILE_PATH="coverage/newWorld$music.coverage" NAME="music Coverage Results" MODIFIED="1564561814416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/musicTestDemo" />
+    <SUITE FILE_PATH="coverage/newWorld$bilibiliTalkDemo.coverage" NAME="bilibiliTalkDemo Coverage Results" MODIFIED="1565962946903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TencentPublicClass" />
     <SUITE FILE_PATH="coverage/newWorld$redi.coverage" NAME="redi Coverage Results" MODIFIED="1564113189926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/newWorld$clent.coverage" NAME="clent Coverage Results" MODIFIED="1564130424127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketDemo" />
     <SUITE FILE_PATH="coverage/newWorld$baiduPythonDemo.coverage" NAME="baiduPythonDemo Coverage Results" MODIFIED="1565762333728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TencentPublicClass" />
@@ -609,106 +647,9 @@
     <SUITE FILE_PATH="coverage/newWorld$sqlalchemyDemo.coverage" NAME="sqlalchemyDemo Coverage Results" MODIFIED="1565769889388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database/connect" />
     <SUITE FILE_PATH="coverage/newWorld$db.coverage" NAME="db Coverage Results" MODIFIED="1564035742451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/newWorld$appiums.coverage" NAME="appiums Coverage Results" MODIFIED="1565600321867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoTestPlatform/app" />
-    <SUITE FILE_PATH="coverage/newWorld$Unittests_for_music_MusicTest_test_music_play.coverage" NAME="Unittests for music.MusicTest.test_music_play Coverage Results" MODIFIED="1565831208498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/musicTestDemo" />
+    <SUITE FILE_PATH="coverage/newWorld$Unittests_for_music_MusicTest_test_music_play.coverage" NAME="Unittests for music.MusicTest.test_music_play Coverage Results" MODIFIED="1565922839174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/musicTestDemo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/0142625a576559a80120121f16b919.jpeg" />
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/1c941201dc70e95c248465eaf87aae531aaa0ab487398-K1YKf2_fw658.jpg" />
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/true.jpg" />
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/web/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/demo1.py" />
-    <entry file="file://$PROJECT_DIR$/test/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seleniumDemo/bilibiliDemo/bilibiliLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/web/FireFoxProfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadDemo/Account.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadDemo/draw_thread.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadDemo/first_thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/appium/webdriver/common/touch_action.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1456">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/videoDemo.py" />
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/tools/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MobilePhoneTesting/text/texts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="298" column="4" selection-start-line="298" selection-start-column="4" selection-end-line="298" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/xlwt/Workbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/web/WebDriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2467">
-          <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/common/datastruce.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/adb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2471">
-          <caret line="305" column="26" selection-start-line="305" selection-start-column="26" selection-end-line="305" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/images/9a3e40c86458c031257cf3bc71cbd458a57a8cc5119f0-askd9h_fw658.jpg" />
     <entry file="das://01399ec9-939d-46d4-92e6-b3aa16d913eb/schema/main/table/user_tb">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -716,13 +657,6 @@
           <filtering>
             <filter text="" />
           </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicClass/baiduPythonDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -823,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/baiduMusicPythonDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -850,21 +777,21 @@
     <entry file="file://$PROJECT_DIR$/database/databaseDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/back.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1583">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -886,27 +813,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/structer/dockerfile.py">
+    <entry file="file://$PROJECT_DIR$/structer/dockerfile.py" />
+    <entry file="file://$PROJECT_DIR$/test/framework.py" />
+    <entry file="file://$PROJECT_DIR$/structer/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/successLogin.html" />
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/login.html" />
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/api/book/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/login_name.html" />
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/global.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/faker/factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-773">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/faker/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/login.json" />
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/api/person/person.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/demo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/foo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/web/WebDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1876">
+          <caret line="149" column="81" lean-forward="true" selection-start-line="149" selection-start-column="81" selection-end-line="149" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/web/FireFoxProfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicClass/baiduPythonDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/framework.py">
+    <entry file="file://$PROJECT_DIR$/TencentPublicClass/bilibiliTalkDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="322">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestToolLibraryDemo/fakerDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestToolLibraryDemo/logDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/appiums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/adb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4634">
+          <caret line="337" column="42" selection-start-line="337" selection-start-column="42" selection-end-line="337" selection-end-column="42" />
           <folding>
-            <element signature="e#107#122#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/structer/list.py">
+    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/app/key_event.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="154">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicClass/movieDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="105" />
+          <folding>
+            <element signature="e#107#120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,17 @@
+[
+    {
+        "request": {
+            "method": "get",
+            "uri": "/person",
+            "queries": {
+                "name": "Jack"
+            }
+        },
+        "response": {
+            "json": {
+                "country": "USA",
+                "age": 18
+            }
+        }
+    }
+]

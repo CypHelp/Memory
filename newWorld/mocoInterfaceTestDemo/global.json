@@ -1,0 +1,9 @@
+[
+    {	"file_root":"api/book",
+        "include": "book.json"
+    },
+    {
+        "file_root":"api/person",
+        "include":"person.json"
+    }
+]
