@@ -28,7 +28,6 @@ import requests
 #     file.write(music)
 
 
-
 url='http://music.taihe.com/top/dayhot'
 base_url='http://musicapi.taihe.com/v1/restserver/ting?method=baidu.ting.song.playAAC&songid='
 
