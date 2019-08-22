@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c3e251-ca21-4e0d-986b-c044b75bca79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TencentPublicPythonClass/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TencentPublicPythonClass/lolPhotoDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c_structure/.idea/c_structure.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c_structure/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c_structure/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c_structure/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c_structure/demo/de.c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/tools/num_to_rmb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/DoutuDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/DoutuDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/FaceRecognitionDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/FaceRecognitionDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/baiduMusicPythonDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/baiduMusicPythonDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/baiduPythonDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/baiduPythonDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/bilibiliTalkDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/bilibiliTalkDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/movieDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/movieDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TencentPublicClass/wymusicPythonDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentPublicPythonClass/wymusicPythonDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structer/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structer/list.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,23 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/lolPhotoDemo.py">
+        <entry file="file://$PROJECT_DIR$/AutoTestPlatform/tools/num_to_rmb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#110#121#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="188">
+              <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -97,20 +69,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/baiduPythonDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="90">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/wymusicPythonDemo.py">
+        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1139332768/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
-              <folding>
-                <element signature="e#118#133#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="7168">
+              <caret line="512" column="4" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -142,8 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AutoTestPlatform/web/WebDriver.py" />
-        <option value="$PROJECT_DIR$/test/demo1.py" />
         <option value="D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/urllib/__init__.py" />
         <option value="$PROJECT_DIR$/requestDemo/demo.py" />
         <option value="$PROJECT_DIR$/AutoTestPlatform/web/PageObject.py" />
@@ -193,14 +160,16 @@
         <option value="$PROJECT_DIR$/TencentPublicClass/demo.py" />
         <option value="$PROJECT_DIR$/structer/linearlistDemo.py" />
         <option value="$PROJECT_DIR$/TencentPublicPythonClass/lolPhotoDemo.py" />
+        <option value="$PROJECT_DIR$/seleniumDemo/demo.py" />
+        <option value="$PROJECT_DIR$/AutoTestPlatform/tools/num_to_rmb.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="306" />
-    <option name="y" value="185" />
-    <option name="width" value="1170" />
-    <option name="height" value="933" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="195" />
+    <option name="y" value="96" />
+    <option name="width" value="1595" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,7 +187,18 @@
             <path>
               <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="newWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="TencentPublicPythonClass" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoTestPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="newWorld" type="b2602c69:ProjectViewProjectNode" />
@@ -229,6 +208,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lolPhotoDemo">
+  <component name="RunManager" selected="Python.num_to_rmb">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="newWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,28 +288,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structer/linearlistDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="logDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="newWorld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoTestToolLibraryDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoTestToolLibraryDemo/logDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,13 +340,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="num_to_rmb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoTestPlatform/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoTestPlatform/tools/num_to_rmb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.num_to_rmb" />
         <item itemvalue="Python.lolPhotoDemo" />
         <item itemvalue="Python.linearlistDemo" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.movieDemo" />
-        <item itemvalue="Python.logDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +434,9 @@
       <workItem from="1566264091239" duration="1383000" />
       <workItem from="1566282650281" duration="2092000" />
       <workItem from="1566302162987" duration="5667000" />
-      <workItem from="1566350212590" duration="404000" />
+      <workItem from="1566350212590" duration="1666000" />
+      <workItem from="1566352330258" duration="2640000" />
+      <workItem from="1566390494417" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="ha">
       <created>1565918488860</created>
@@ -470,7 +452,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566222100713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ha">
+      <created>1566350633094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566350633094</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ha">
+      <created>1566351865142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566351865143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -506,7 +502,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338833000" />
+    <option name="totallyTimeSpent" value="344077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,15 +514,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="157" y="78" width="1276" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.16018766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.19868638" />
       <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.21702838" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.25183016" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917763" weight="0.36510265" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25073314" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917763" weight="0.36466166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3968" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -579,6 +575,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/newWorld$Unittests_in_D2AdminTest_py.coverage" NAME="Unittests in D2AdminTest.py Coverage Results" MODIFIED="1564985491860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_D2AdminTest_Test.coverage" NAME="Unittests for D2AdminTest.Test Coverage Results" MODIFIED="1564985282998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
+    <SUITE FILE_PATH="coverage/newWorld$num_to_rmb.coverage" NAME="num_to_rmb Coverage Results" MODIFIED="1566355122693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoTestPlatform/tools" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_D2AdminLogin_test_Test_test_user_manage.coverage" NAME="Unittests for D2AdminLogin_test.Test.test_user_manage Coverage Results" MODIFIED="1565084023604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$Unittests_in_D2AdminLogin_test_py.coverage" NAME="Unittests in D2AdminLogin_test.py Coverage Results" MODIFIED="1565100221316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/D2AdminTestDemo" />
     <SUITE FILE_PATH="coverage/newWorld$server.coverage" NAME="server Coverage Results" MODIFIED="1564124782134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketDemo" />
@@ -641,51 +638,6 @@
     <SUITE FILE_PATH="coverage/newWorld$Unittests_for_music_MusicTest_test_music_play.coverage" NAME="Unittests for music.MusicTest.test_music_play Coverage Results" MODIFIED="1565922839174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumDemo/musicTestDemo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/sqlalchemy/orm/scoping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/sqlalchemy/ext/declarative/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/connect/sqlalchemyDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="65" selection-start-line="65" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MobilePhoneTesting/PerformanceDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="e#114#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Users/Administrator/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="386" selection-start-line="386" selection-end-line="386" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1139332768/lxml/etree/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1139332768/lxml/html/clean.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -729,13 +681,6 @@
     <entry file="file://$PROJECT_DIR$/test/framework.py" />
     <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/successLogin.html" />
     <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/login.html" />
-    <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mocoInterfaceTestDemo/api/book/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -872,13 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1139332768/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="3855" column="9" selection-start-line="3855" selection-start-column="9" selection-end-line="3855" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/movieDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -903,32 +841,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state>
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/baiduPythonDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -942,13 +858,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/images/Aatrox0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/aqyDemo/videoDemo.py" />
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/bilibiliDemo/bilibiliLogin.py" />
     <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/lolPhotoDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="170">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding>
             <element signature="e#110#121#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/dbshopTestDemo/GoodsManageDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/musicTestDemo/music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/demo.py" />
+    <entry file="file://$PROJECT_DIR$/seleniumDemo/qqmailTestDemo/mailDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1139332768/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7168">
+          <caret line="512" column="4" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentPublicPythonClass/baiduPythonDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoTestPlatform/tools/num_to_rmb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
         </state>
       </provider>
     </entry>
