@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/main_bg"
+            android:orientation="vertical">
+
+        <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"/>
+
+        <TextView
+                android:id="@+id/dialog_title"
+                style="@style/common_18_text"
+                android:layout_gravity="center_horizontal"
+                android:text="对话框"
+                android:textColor="@color/zhanlan_color"/>
+
+        <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/text_black"/>
+
+        <View
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"/>
+
+        <TextView
+                android:id="@+id/dialog_content"
+                style="@style/common_black_16_text"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"/>
+
+        <EditText
+                android:id="@+id/edittext"
+                android:hint="请输入验证信息"
+                android:gravity = "top"
+                android:visibility="gone"
+                android:layout_margin = "6dp"
+                android:textColor = "@color/text_black"
+                android:background="@drawable/bg_account_normal"
+                android:padding = "3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <View
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"/>
+
+        <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/text_black"/>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:id="@+id/btn_no_restart"
+                    style="@style/common_16_text"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="否"
+                    android:textColor="@drawable/selector_text_style_no"/>
+
+            <TextView
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:background="@color/text_black"/>
+
+            <TextView
+                    android:id="@+id/btn_yes_restart"
+                    style="@style/common_16_text"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="是"
+                    android:textColor="@drawable/selector_text_style_yes"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/zhanlan_color"/>
+
+</RelativeLayout>

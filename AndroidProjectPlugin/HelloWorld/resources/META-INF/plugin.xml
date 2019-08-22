@@ -1,0 +1,30 @@
+<idea-plugin version="2">
+  <id>com.hc.helloeorld</id>
+  <name>HelloWorld</name>
+  <version>1.0</version>
+  <vendor email="1377982034@qq.com" url="https://www.yps608.top/">Big</vendor>
+
+  <description/>
+
+  <change-notes/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="145.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <action id="HelloWordId" class="HelloWord" text="HelloWord" description="HelloWord">
+      <add-to-group group-id="AnalyzeActions" anchor="first"/>
+    </action>
+  </actions>
+
+</idea-plugin>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@mipmap/menu_choose">
+
+    <LinearLayout
+        android:id="@+id/sm"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/yanjiao_hong">
+        <ImageView
+            android:layout_width="53dp"
+            android:layout_height="53dp"
+            android:src="@mipmap/sys"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:gravity="center"
+            android:textSize="19sp"
+            android:text="扫码"/>
+    </LinearLayout>
+</LinearLayout>

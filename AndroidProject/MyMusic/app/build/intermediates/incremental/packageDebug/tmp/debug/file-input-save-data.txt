@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 08 00:19:47 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\AndroidProject\\MyMusic\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

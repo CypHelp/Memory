@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidProject\\MyMusic\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\AndroidProject\\MyMusic\\app\\src\\main\\res\\values\\dimen.xml",
+                    "from": {
+                        "startLines": "14,3,2,9,11,10,12,13,8",
+                        "startColumns": "1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "384,92,52,189,267,229,311,350,143",
+                        "endColumns": "39,44,39,39,43,37,38,33,45",
+                        "endOffsets": "422,135,90,227,309,265,348,382,187"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "307,350,398,441,484,531,572,614,651",
+                        "endColumns": "42,47,42,42,46,40,41,36,48",
+                        "endOffsets": "345,393,436,479,526,567,609,646,695"
+                    }
+                },
+                {
+                    "source": "E:\\AndroidProject\\MyMusic\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,5,6",
+                        "startColumns": "4,4,4,1",
+                        "startOffsets": "116,55,165,205",
+                        "endColumns": "42,60,42,37",
+                        "endOffsets": "154,111,203,241"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "700,743,804,847",
+                        "endColumns": "42,60,42,40",
+                        "endOffsets": "738,799,842,883"
+                    }
+                },
+                {
+                    "source": "E:\\AndroidProject\\MyMusic\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "3,6,7,2,4,5",
+                        "startColumns": "1,1,1,1,1,1",
+                        "startOffsets": "89,209,245,52,126,170",
+                        "endColumns": "36,35,40,36,43,38",
+                        "endOffsets": "124,243,284,87,168,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,95,134,178,218,265",
+                        "endColumns": "39,38,43,39,46,41",
+                        "endOffsets": "90,129,173,213,260,302"
+                    }
+                }
+            ]
+        }
+    ]
+}

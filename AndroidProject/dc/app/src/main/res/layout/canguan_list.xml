@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="#333333"
+        android:gravity="center"
+        android:text="餐馆"
+        android:textColor="#ffffff" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/key"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            android:gravity="center"
+            android:background="@drawable/edit_bg"
+            android:hint="关键字"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/cx"
+            android:layout_width="66dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="8dp"
+            android:background="#436EEE"
+            android:gravity="center"
+            android:text="搜索"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="#333333"
+        android:gravity="center"
+        android:text="关于软件"
+        android:textColor="#ffffff" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp" />
+    
+<TextView 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="欢迎使用该软件，该软件。。。"
+    android:layout_margin="20dp"/>
+</LinearLayout>

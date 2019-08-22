@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--主界面-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/hrs_log"
+    android:layout_gravity="center_vertical"
+    android:paddingBottom="7dp"
+    android:paddingLeft="7dp"
+    android:paddingTop="7dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/greeting"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/titles"
+        android:textColor="@color/goldenrod"
+        android:layout_marginTop="20dp"
+        android:textSize="30dp"
+        />
+    <!--用户名-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/account_number"/>
+        <EditText
+            android:id="@+id/useridEt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="电话手机号码/邮箱"
+
+            />
+    </LinearLayout>
+    <!--密码-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/password" />
+        <EditText
+            android:id="@+id/passEt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="请勿使用非法字符"
+            android:inputType="textPassword" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="300dp">
+
+        <!--登录，注册按钮-->
+        <Button
+            android:id="@+id/loginBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_below="@+id/titles"
+            android:layout_marginRight="30dp"
+            android:text="登录" />
+
+        <Button
+            android:id="@+id/registBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_below="@+id/titles"
+            android:text="注册" />
+
+
+        <Button
+            android:id="@+id/fastloginBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titles"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/loginBtn"
+            android:text="游客登录" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text=""
+        android:id="@+id/promptText"
+        android:layout_below="@+id/l3"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TextView>
+
+
+</RelativeLayout>

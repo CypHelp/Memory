@@ -1,0 +1,4 @@
+#Mon Apr 08 00:19:47 CST 2019
+base.0=E\:\\AndroidProject\\MyMusic\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

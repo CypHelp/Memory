@@ -1,0 +1,4 @@
+#Tue Apr 23 21:17:53 CST 2019
+base.0=E\:\\AndroidProject\\MyBus1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="text_black">#a3a3a3</color>
+    <color name="text_grey">#424242</color>
+    <color name="main_bg">#ffffff</color>
+    <color name="red_backgrounds">#f45e5e</color>
+    <color name="bg_btn_red_pressed">#df4d4d</color>
+    <!--展览路主色调-->
+    <color name="zhanlan_color">#00bbd2</color>
+
+    <!-- 点击放大的圈的颜色 -->
+    <color name = "rippelColor">#ffc2c2c2</color>
+    <color name = "login_btn_green">#4db893</color>
+    <color name = "white">#ffffff</color>
+
+    <!-- 主要背景色 -->
+    <color name = "bg_activity">#3E3F3F</color>
+
+    <color name = "light_blue">#87d0f2</color>
+    <color name = "black">#000000</color>
+
+    <drawable name = "trans">@color/color_hei_8</drawable>
+    <color name = "color_hei_8">#00000000</color>
+
+    <color name = "actionsheet_blue">#037BFF</color>
+    <color name = "actionsheet_red">#FD4A2E</color>
+    <color name = "actionsheet_gray">#8F8F8F</color>
+
+    <!--dropdownmenu的color-->
+    <color name = "gray">#cccccc</color>
+    <color name = "drop_down_selected">#7B1FA2</color>
+    <color name = "drop_down_unselected">#111111</color>
+
+    <color name = "mask_color">#88888888</color>
+    <color name = "check_bg">#f2f2f2</color>
+    <color name = "un_press_color">#9C27B0</color>
+    <!--end-->
+</resources>

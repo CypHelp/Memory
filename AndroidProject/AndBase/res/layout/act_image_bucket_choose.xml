@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+                android:layout_width = "match_parent"
+                android:layout_height = "match_parent"
+                android:background = "@color/main_bg">
+
+    <include
+            android:id = "@+id/top"
+            layout = "@layout/title_layout"/>
+
+    <ListView
+            android:id = "@+id/xiangce_listview"
+            android:layout_width = "match_parent"
+            android:layout_height = "match_parent"
+            android:layout_below = "@+id/top"
+            android:layout_margin = "8dp"
+            android:divider = "@color/text_grey"
+            android:dividerHeight = "1px"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+                android:layout_width = "match_parent"
+                android:background = "@color/main_bg"
+                android:layout_height = "@dimen/title_height">
+
+    <ImageView
+            android:id = "@+id/title_left"
+            android:src = "@drawable/back"
+            android:layout_centerVertical = "true"
+            android:layout_marginLeft = "10dp"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"/>
+
+    <TextView
+            android:id = "@+id/title_cancle"
+            android:text = "取消"
+            android:visibility = "gone"
+            android:textColor = "@color/white"
+            android:layout_marginLeft = "10dp"
+            style = "@style/common_white_18_text"
+            android:layout_centerVertical = "true"/>
+
+    <TextView
+            android:id = "@+id/title_center"
+            style = "@style/common_white_18_text"
+            android:ellipsize = "end"
+            android:singleLine = "true"
+            android:maxLength = "16"
+            android:textColor = "@color/white"
+            android:layout_centerInParent = "true"/>
+
+    <ImageView
+            android:id = "@+id/title_right"
+            android:layout_alignParentRight = "true"
+            android:layout_marginRight = "10dp"
+            android:visibility = "gone"
+            android:padding = "5dp"
+            android:layout_centerVertical = "true"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"/>
+
+    <TextView
+            android:id = "@+id/title_right_text"
+            style = "@style/common_18_text"
+            android:ellipsize = "end"
+            android:textColor = "@color/login_btn_green"
+            android:singleLine = "true"
+            android:clickable = "true"
+            android:layout_alignParentRight = "true"
+            android:layout_centerVertical = "true"
+            android:visibility = "gone"
+            android:layout_marginRight = "10dp"/>
+</RelativeLayout>

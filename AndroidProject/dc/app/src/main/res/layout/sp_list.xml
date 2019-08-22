@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="#333333"
+        android:gravity="center"
+        android:text="菜品列表"
+        android:textColor="#ffffff" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/gm"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="#333333"
+        android:gravity="center"
+        android:text="购买"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

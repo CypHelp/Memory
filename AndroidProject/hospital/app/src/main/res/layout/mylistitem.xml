@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--需要添加约束-->
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+    android:gravity="center"
+  android:layout_height="150dp"
+    android:background="@color/coral"
+   android:orientation="horizontal"
+   >
+
+        <!--列表视图显示的一行-->
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="90dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="90dp"
+            android:src="@drawable/icon"
+            >
+
+        </ImageView>
+
+        <TextView
+            android:text="名医"
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textColor="#ffb6c1">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  挂号费  " />
+        <TextView
+            android:text="挂号费"
+            android:id="@+id/textView2"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#7fff00">
+
+        </TextView>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/burlywood"
+            android:focusable="false"
+            android:text="确定预约">
+
+        </Button>
+
+</LinearLayout>

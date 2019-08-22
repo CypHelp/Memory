@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:3:2-28
+		INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:3:29-53
+		INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:5:2-94
+	android:name
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:5:19-75
+application
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:7:2-18:16
+	android:icon
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:7:15-51
+activity#com.guo.gongjiao.MainActivity
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:8:3-14:14
+	android:screenOrientation
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:9:4-40
+	android:label
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:8:42-74
+	android:configChanges
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:9:41-91
+	android:name
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:8:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:10:4-13:20
+action#android.intent.action.MAIN
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:11:5-57
+	android:name
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:11:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:12:15-62
+activity#com.guo.gongjiao.Traffic
+ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:15:3-17:14
+	android:screenOrientation
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:15:37-73
+	android:name
+		ADDED from E:\AndroidProject\MyBus1\app\src\main\AndroidManifest.xml:15:13-36
