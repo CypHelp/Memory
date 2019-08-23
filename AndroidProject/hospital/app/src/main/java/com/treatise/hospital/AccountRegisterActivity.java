@@ -114,7 +114,7 @@ public class AccountRegisterActivity extends AppCompatActivity {
                 String usename = usenameEt.getText().toString();
                 String pass = passwordEt.getText().toString();
                 String repass = okpasswordEt.getText().toString();
-                String address=addressEd.getText().toString();
+                String address = addressEd.getText().toString();
 
                 if (usename.length() == 0) {
                     Toast.makeText(getApplicationContext(), "请输入用户名", Toast.LENGTH_LONG).show();
@@ -138,7 +138,7 @@ public class AccountRegisterActivity extends AppCompatActivity {
                 ContentValues values = new ContentValues();
                 values.put("name", usename);
                 values.put("password", pass);
-                values.put("address",address);
+                values.put("address", address);
                 //创建数据库工具类
                 DBHelper helper = new DBHelper(getApplicationContext());
                 helper.insert(values);

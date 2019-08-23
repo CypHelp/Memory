@@ -45,10 +45,8 @@ class MusicTest(unittest.TestCase):
 
         sleep(5)
         MusicTest.driver.find_element_by_xpath('//b[@title="果物の盛り合わせ"]').click()
-        sleep(2)
+        sleep(3)
         MusicTest.driver.find_element_by_link_text('播放').click()
-
-
 
 
 if __name__ == '__main__':
