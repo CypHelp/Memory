@@ -6,6 +6,8 @@
 @software: PyCharm
 @file: lolPhotoDemo.py
 @time: 2019/8/20 0020 20:13
+
+爬取lol 英雄的皮肤图片
 """
 import json
 import re

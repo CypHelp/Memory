@@ -27,22 +27,17 @@ import requests
     
 """
 
-
-
 # 1.确定url地址
 
-url='https://jx.618g.com/?url=https://v.qq.com/x/cover/vbb35hm6m6da1wc/i0031i4gwrb.html'
+url = 'https://jx.618g.com/?url=https://v.qq.com/x/cover/vbb35hm6m6da1wc/i0031i4gwrb.html'
 
 # 2.请求
 
-res=requests.get(url).text
+res = requests.get(url).text
 print(res)
-
 
 # /m3u8.php?url=https://letv.com-t-letv.com/20190815/3978_e1fbd3b1/index.m3u8
 # ffmpeg -i 'https://v.qq.com/x/cover/vbb35hm6m6da1wc/i0031i4gwrb.html' -vcodec copy -acodec copy xxx.mp4
 
 # 3.筛选数据
 # 4.保存
-
-

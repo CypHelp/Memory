@@ -6,6 +6,8 @@
 @software: PyCharm
 @file: baiduMusicPythonDemo.py
 @time: 2019/8/13 0013 20:05
+
+千千静听  音乐
 """
 
 # # 1.确定url

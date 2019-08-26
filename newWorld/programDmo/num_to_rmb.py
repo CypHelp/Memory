@@ -57,7 +57,7 @@ def four_to_hanstr(num_str):
 '''
 
 
-def integer_to_str(num_str):
+def integer_to_sfr(num_str):
     str_len = len(num_str)
     if str_len > 12:
         print('数字太大，翻译不了')

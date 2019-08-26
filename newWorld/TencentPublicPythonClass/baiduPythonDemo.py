@@ -6,6 +6,8 @@
 @software: PyCharm
 @file: baiduPythonDemo.py
 @time: 2019/8/12 0012 20:42
+
+百度 爬取图片
 """
 
 import re
