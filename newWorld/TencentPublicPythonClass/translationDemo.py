@@ -16,12 +16,12 @@ import tkinter
 import requests
 
 
-def translation(self):
+def translation():
     url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
-    str_data = self.input().get()
+    info = input("您想翻译的单词：")
     # 时间戳？？ sign
     data = {
-        'i': str_data,
+        'i': info,
         'doctype': 'json'
     }
 
@@ -31,15 +31,18 @@ def translation(self):
     }
 
     # 2.请求
-    res_string = requests.post(url, data=data, header=header_ua).content.decode()
-    print(res_string)
+    res_string = requests.post(url, data=data).content.decode()
+    # print(res_string)
 
     json_data = json.loads(res_string)
 
     result_string = json_data["translateResult"][0][0]["tgt"]
     print(result_string)
-    info.insert(result_string)
+    # info.insert(result_string)
 
+
+if __name__ == '__main__':
+    translation()
 
 """
 # 3.制作界面
@@ -50,19 +53,19 @@ def translation(self):
 # ⑤ 布局
 # ⑥ 设置文本框
 """
-window = tkinter.Tk()
-
-window.geometry('400x400+800+20')
-window.title('中 --》英')
-
-tkinter.Label(text='内容:    ', font=('GB2312', 22), background="#fc0").grid(row=0, column=0)
-data = tkinter.Entry(font=('GB2312', 22), background="red").grid(row=0, column=1, )
-
-tkinter.Label(text='输出:    ', font=('GB2312', 22), background="#fc0").grid(row=1, column=0)
-res = tkinter.StringVar()
-info = tkinter.Entry(font=('GB2312', 22), background="red", textvariable=res).grid(row=1, column=1)
-
-tkinter.Button(text='翻译', font=('GB2312', 19), command=translation).grid(row=2, column=0)
-tkinter.Button(text='退出', font=('GB2312', 19), command=window.quit).grid(row=2, column=1)
-
-window.mainloop()
+# window = tkinter.Tk()
+#
+# window.geometry('400x400+800+20')
+# window.title('中 --》英')
+#
+# tkinter.Label(text='内容:    ', font=('GB2312', 22), background="#fc0").grid(row=0, column=0)
+# data = tkinter.Entry(font=('GB2312', 22), background="red").grid(row=0, column=1, )
+#
+# tkinter.Label(text='输出:    ', font=('GB2312', 22), background="#fc0").grid(row=1, column=0)
+# res = tkinter.StringVar()
+# info = tkinter.Entry(font=('GB2312', 22), background="red", textvariable=res).grid(row=1, column=1)
+#
+# tkinter.Button(text='翻译', font=('GB2312', 19), command=translation).grid(row=2, column=0)
+# tkinter.Button(text='退出', font=('GB2312', 19), command=window.quit).grid(row=2, column=1)
+#
+# window.mainloop()
